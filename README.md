@@ -13,4 +13,4 @@ I'm just a guy who likes to code. I'm passionate about programming, security, an
 
 ## 👯‍♀️ Looking to collaborate?
 
-I'm always open to collaborating on projects related to [Your Areas of Expertise]. Feel free to reach out to me if you're interested in working together.
+I'm always open to collaborating on projects. Feel free to reach out to me if you're interested in working together.
