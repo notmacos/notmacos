@@ -9,9 +9,10 @@ I'm just a guy who likes to code. I'm passionate about programming, security, an
 ## 🌱 Currently I Know and Continue Learning
 
 - Python
--- ML
--- AI
 - C
+- Rust
+- Go
+- JavaScript
 
 ## 👯‍♀️ Looking to collaborate?
 
