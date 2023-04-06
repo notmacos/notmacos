@@ -7,7 +7,7 @@ I'm just a guy who likes to code. I'm passionate about programming, security, an
 - [Coming Soon TM](https://github.com/notmacos/)
 
 ## 🌱 Skills
-- Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -15,7 +15,7 @@ I'm just a guy who likes to code. I'm passionate about programming, security, an
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-- Systems
+### Systems
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
