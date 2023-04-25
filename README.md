@@ -22,7 +22,3 @@ I'm just a guy who likes to code. I'm passionate about programming, security, an
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft%20azure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry%20pi&logoColor=white)
-
-## 👯‍♀️ Looking to collaborate?
-
-I'm always open to collaborating on projects. Feel free to reach out to me if you're interested in working together.
