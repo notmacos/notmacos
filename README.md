@@ -4,7 +4,7 @@ I'm just a guy who likes to code. I'm passionate about programming, security, an
 
 ## 🔭 Current Projects
 
-- [Coming Soon TM](https://github.com/notmacos/)
+- IP6 // [Coming Soon TM](https://github.com/notmacos/)
 
 ## 🌱 Tech Stack
 
